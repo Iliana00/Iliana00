@@ -1,3 +1,6 @@
+![Frontend Developer (1)](https://user-images.githubusercontent.com/74528786/139367475-606cd5de-376f-40d6-a5e2-0218abf4e2e6.gif)
+
+
 <h1 align="center">Hi 👋, I'm Iliana</h1>
 <h3 align="center">I studied Literature convinced that narrative and poetry were the only ways to convey stories and feelings. When I got into the world of web development I was convinced that there are other ways. Now, as a frontend developer, my passion for self-learning has led me to create and develop web pages that tell stories, convey emotions and are suitable from the visual to the functional.</h3>
 
