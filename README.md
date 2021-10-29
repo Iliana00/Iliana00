@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Iliana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I studied Literature convinced that narrative and poetry were the only ways to convey stories and feelings. When I got into the world of web development I was convinced that there are other ways. Now, as a frontend developer, my passion for self-learning has led me to create and develop web pages that tell stories, convey emotions and are suitable from the visual to the functional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliana00&label=Profile%20views&color=0e75b6&style=flat" alt="iliana00" /> </p>
 
 - 🌱 I’m currently learning **react, bootstrap**
 
 - 📫 How to reach me **carrasquedoiliana@gmail.com**
+
+- ⚡ Fun fact **I love watching series and playing The Sims**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
